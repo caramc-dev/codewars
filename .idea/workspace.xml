@@ -5,9 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a363acf7-0262-47b7-be4e-18e2e646faa1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/longest_word.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/employee-management.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/library.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam_code_scratchpad.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/specialisation/bst-1-sorted-arr-to-BST.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/specialisation/max-depth-binary-tree-dfs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/specialisation/n-art-tree-level-traversal-BFS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/specialisation/tree-constructor.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/word_frequency.py" beforeDir="false" afterPath="$PROJECT_DIR$/word_frequency.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/counting_characters.py" beforeDir="false" afterPath="$PROJECT_DIR$/counting_characters.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/letter_count.py" beforeDir="false" afterPath="$PROJECT_DIR$/letter_count.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +22,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="39" />
+    <option name="cachedIndexableFilesCount" value="49" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -31,10 +38,10 @@
     <commands />
     <urls />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="3DZxeoQJ48D6VLE4DBl64GzIfxI" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -47,9 +54,14 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.abbreviate.executor": "Run",
+    "Python.bst-1-sorted-arr-to-BST (1).executor": "Run",
+    "Python.bst-1-sorted-arr-to-BST.executor": "Run",
+    "Python.library.executor": "Run",
     "Python.longest_word.executor": "Run",
+    "Python.max-depth-binary-tree-dfs.executor": "Run",
     "Python.pin.executor": "Run",
     "Python.simple_password.executor": "Run",
+    "Python.sorted-arr-to-BST.executor": "Run",
     "Python.string_ends_with.executor": "Run",
     "Python.string_expansion.executor": "Run",
     "Python.to_24hour_time.executor": "Run",
@@ -62,7 +74,58 @@
     "settings.editor.selected.configurable": "editor.preferences.inline.completion"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.longest_word">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\caram\dev\python\coding-challenges\specialisation" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="bst-1-sorted-arr-to-BST" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="coding-challenges" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="C:\Users\caram\dev\python\coding-challenges\specialisation\bst-1-sorted-arr-to-BST.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="bst-1-sorted-arr-to-BST" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="coding-challenges" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="C:\Users\caram\dev\python\coding-challenges\specialisation\bst-1-sorted-arr-to-BST.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="longest_word" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="coding-challenges" />
       <option name="ENV_FILES" value="" />
@@ -109,52 +172,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="string_expansion" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="coding-challenges" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/string_expansion.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="to_24hour_time" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="coding-challenges" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/to_24hour_time.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="word_frequency" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="coding-challenges" />
       <option name="ENV_FILES" value="" />
@@ -180,11 +197,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.bst-1-sorted-arr-to-BST (1)" />
+        <item itemvalue="Python.bst-1-sorted-arr-to-BST" />
         <item itemvalue="Python.longest_word" />
         <item itemvalue="Python.word_frequency" />
         <item itemvalue="Python.simple_password_1" />
-        <item itemvalue="Python.string_expansion" />
-        <item itemvalue="Python.to_24hour_time" />
       </list>
     </recent_temporary>
   </component>
